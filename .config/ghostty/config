@@ -1,0 +1,4 @@
+# ghostty config
+theme = GruvboxDark
+font-family = GeistMono Nerd Font
+window-decoration = none
